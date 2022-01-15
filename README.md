@@ -7,7 +7,8 @@
 
 # Grapf Recomendation System
 
-This example shows how to build a recommender system using graphs. First example based on standard relationships in graphs. The second example based on the construction of embeddings at the level of graph vertices
+This example shows how to build a recommender system using graphs. First example based on standard relationships in graphs(NetworkX). The second example based on the construction of embeddings at the level of graph vertices (Node2Vec).
+
+<img src="graph1.png" width="1200"/>
 
 <img src="graph2.png" width="1200"/>
-<img src="graph1.png" width="1200"/>
