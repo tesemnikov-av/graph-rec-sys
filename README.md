@@ -7,4 +7,4 @@
 
 # Grapf Recomendation System
 
-<img src="graph1.png" width="400"/>
+<img src="graph1.png" width="1200"/>
