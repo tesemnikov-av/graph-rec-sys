@@ -6,3 +6,5 @@
 <img src="logo.png" width="150"/>
 
 # Grapf Recomendation System
+
+<img src="graph1.png" width="400"/>
