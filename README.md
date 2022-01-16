@@ -11,7 +11,7 @@
     + Graphs 
         - Embedding with Node2Vec
         - Link Based on NetworkX
-    + Text Description (HuggingFace / HDBSCAN)
+    + Text Description
         - HuggingFace Transformers
         - Sklearn Tf-Idf
 * Collaborative filtering
