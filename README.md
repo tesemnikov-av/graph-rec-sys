@@ -3,7 +3,7 @@
 
 ![watch](https://img.shields.io/github/watchers/tesemnikov-av/Pelevin-recomendation-bot?style=social) 
 
-<img src="logo.png" width="150"/>
+<img src="pics\logo.png" width="150"/>
 
 # SQUID - Collection of recommender systems
 
