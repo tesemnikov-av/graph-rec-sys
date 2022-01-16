@@ -9,8 +9,8 @@
 
 * Content-Based
     + Graphs 
-            - Node2Vec (Node Embedding)
-            - NetworkX (Link Based)
+        - Node2Vec (Node Embedding)
+        - NetworkX (Link Based)
     + Text Description (HuggingFace / HDBSCAN)
 * Popular Content
 
