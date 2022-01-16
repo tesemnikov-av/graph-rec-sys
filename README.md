@@ -5,7 +5,7 @@
 
 <img src="logo.png" width="150"/>
 
-# SQUIZ - Collection of recommender systems
+# SQUID - Collection of recommender systems
 
 * Content-based filtering
     + Graphs 
