@@ -18,7 +18,8 @@
     - SVD
     - Implicit
     - LightFM
-
+   
+* CatBoost
 * Metrics and Validation
 * Popular Content
 
