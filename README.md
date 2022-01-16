@@ -5,11 +5,12 @@
 
 <img src="logo.png" width="150"/>
 
-# SQUIZ - Recomendation System on Graph
-
+# SQUIZ - Collection of recommender systems
 
 * Content-Based
-    + Graphs
+    + Graphs 
+            - Node2Vec (Node Embedding)
+            - NetworkX (Link Based)
     + Text Description (HuggingFace / HDBSCAN)
 * Popular Content
 
