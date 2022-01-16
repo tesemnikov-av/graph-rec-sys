@@ -15,6 +15,7 @@
         - HuggingFace Transformers
         - Sklearn Tf-Idf
 * Collaborative filtering
+    - SVD
     - Implicit
     - LightFM
 
