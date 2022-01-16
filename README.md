@@ -20,6 +20,7 @@
     - LightFM
    
 * CatBoost
+*  FAISS
 * Metrics and Validation
 * Popular Content
 
