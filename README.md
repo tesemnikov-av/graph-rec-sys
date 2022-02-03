@@ -7,6 +7,8 @@
 
 # SQUID - Collection of recommender systems
 
+<!---
+
 * Content-based filtering
     + Graphs 
         - Embedding with Node2Vec
@@ -23,7 +25,7 @@
 *  FAISS
 * Metrics and Validation
 * Popular Content
-
+-->
 This example shows how to build a recommender system using graphs. First example based on standard relationships in graphs(NetworkX). The second example based on the construction of embeddings at the level of graph vertices (Node2Vec).
 
 <img src="pics\graph1.png" width="1200"/>
